@@ -13,7 +13,7 @@ The project's methods, mathematics and results is documented here: shorturl.at/c
 
 Code Specifications: 
 1. The MIP model takes in a manually simulated world of 27 global cities with different storage settings and event demands. 
-2. The MIP optimize shipping events materials and components that are based on Oi Creative Agency's Pavilions Project to satisfy said demands.  
+2. The MIP optimize shipping events materials and components that are based on Oi Creative Agency's Pavilions Project to satisfy said demands (shorturl.at/ftFLV)
 3. Eucaledian distance is calculated to find carbon emissions rate with different types of transports which includes: freight and truck. 
 4. The model generates a cti (CreateTransportIter) as an optimized step to ship containers of materials from one place to another to satisfy event demands. 
 5. Run solver.py to start operations research. 
