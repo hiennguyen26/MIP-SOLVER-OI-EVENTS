@@ -1,4 +1,4 @@
-# OiEvents
+# OiEvents Operations Optimization Machine
 
 Introduction:
 The events industry produces 600,000 tons of waste every year, excluding food wastes. What if there is a marketplace for event organizers to rent used event materials (bamboo, aluminium, decorative pieces, artworks, etc.) to stop waste production? Oi Events is positioned to be at that frontier and help to aliviate the landfill crisis. 
