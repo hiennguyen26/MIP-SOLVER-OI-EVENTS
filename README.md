@@ -14,14 +14,15 @@ Today, MIP is used commercially to optimize scheduling for production, goods tra
 The project's methods, mathematics and results is documented here: shorturl.at/csLQW
 
 
-**Code Specifications: **
+**Code Specifications:**
 1. The MIP model takes in a manually simulated world of 27 global cities with different storage settings and event demands. 
 2. The MIP optimize shipping events materials and components that are based on Oi Creative Agency's Pavilions Project to satisfy said demands (shorturl.at/ftFLV)
 3. Eucaledian distance is calculated to find carbon emissions rate with different types of transports which includes: freight and truck. 
 4. The model generates a cti (CreateTransportIter) as an optimized step to ship containers of materials from one place to another to satisfy event demands. 
 5. Run solver.py to start operations research. 
 
-**Notes: **
+**Notes:**
 1. Currently the model can only optimze operations decisions over a span of 1 year calendar of concurrent events around the world. 
 2. It currently takes about 3 weeks to run the simulation to do operations research over 5 years.
 3. Commercial MIP model multithread proivders such as Guirobi have been contacted but the price for service is more than $7,000 a year. 
+4. Currently trying to implement neural networks to solve the MIP. This will use GPU capacity instead of CPU, which could cost a lot cheaper.
