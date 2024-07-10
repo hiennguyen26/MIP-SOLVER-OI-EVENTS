@@ -1,10 +1,10 @@
 # OiEvents Operations Optimization Machine
 
 **Introduction:**
-The events industry produces 600,000 tons of waste every year, excluding food wastes. What if there is a marketplace for event organizers to rent used event materials (bamboo, aluminium, decorative pieces, artworks, etc.) to stop waste production? Oi Events is positioned to be at that frontier and help to aliviate the landfill crisis. 
+The events industry produces 600,000 tons of waste every year, excluding food waste. What if there was a marketplace for event organizers to rent used event materials (bamboo, aluminum, decorative pieces, artworks, etc.) to stop waste production? Oi Events is positioned to be at that frontier and help alleviate the landfill crisis. 
 
 
-To best serve this cause, transparency for C02 emissions and logistical costs by transports around the world to meet event demands must be tracked. To minimize both of these costs, the rules of storage must be applied to allow increased efficiency for the company over time. A Mixed-Integer Programming model is used to compute the packing and transport steps needed to satisfy all event demands. This MIP model can be considered as the foundation for a perpetual operations research machine finding solutions that currently minimizes waste, pollution, and operational costs, but also can be further developed to maximizing profitability and ensuring a high reusal rate for each event component that is in the system. 
+To best serve this cause, transparency for C02 emissions and logistical costs by transports worldwide to meet event demands must be tracked. To minimize both of these costs, the rules of storage must be applied to increase the company's efficiency over time. A Mixed-Integer Programming model calculates the packing and transport steps needed to satisfy all event demands. This MIP model can be considered as the foundation for a perpetual operations research machine finding solutions that currently minimize waste, pollution, and operational costs, but also can be further developed to maximize profitability and ensure a high refusal rate for each event component in the system. 
 
 
 Today, MIP is used commercially to optimize scheduling for production, goods transfers and many other business and governmental purposes, mainly for more efficient allocation of resources.
